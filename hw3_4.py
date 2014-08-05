@@ -1,3 +1,5 @@
+#Salaam testing
+
 epsilon = 2
 maxid = 0
 with open('livejournal-undirected.txt') as infile:
